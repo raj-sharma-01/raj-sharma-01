@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and competetive programming.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Backend Projects
-- https://github.com/raj-sharma-01/Hacktoberfest/issues/1#issue-1040803165
+- <img src = https://github.com/raj-sharma-01/Hacktoberfest/issues/1#issue-1040803165>
 
 
 <!---
